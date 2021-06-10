@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: c299dd1e6018f694cb2b71629a13c79f
+timeCreated: 1613502727
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - BlackM: {fileID: 2100000, guid: e4e6c30337cbafa469f0eb1f810d000e, type: 2}
+  - PinkM: {fileID: 2100000, guid: c742f0ffb6b00a440a69eee0e8a57511, type: 2}
+  - GreenM: {fileID: 2100000, guid: dd88b86073e1f794cb64fb8d1283e73d, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
